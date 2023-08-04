@@ -1,4 +1,3 @@
-
 import styles from "./page.module.scss";
 import Button from "@/components/Button/Button";
 import Image from "next/image";
